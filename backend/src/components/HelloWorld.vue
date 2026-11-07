@@ -14,7 +14,7 @@ import store from "../store";
 <template>
   <!-- <div class="greetings">
     <h1 class="green">{{ msg }}</h1> -->
-    {{ test }}
+   <h1 class="bg-purple-500"> {{ test }}</h1>
     <!-- <h3>
          <h1>mmmmmmmmmmmmmmm</h1>
       You’ve successfully created a project with
